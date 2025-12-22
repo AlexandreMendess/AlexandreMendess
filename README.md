@@ -37,7 +37,7 @@ Tools & Architecture:
     * Optimized system performance using RxJS.
     * Fixed 100% of memory leaks caused by HTTP request data manipulation.
     * Performed code reviews and solved architectural problems.
-* Banco BV Project:** Worked on "Argos" and "Cockpit" applications.
+* Banco BV Project: Worked on "Argos" and "Cockpit" applications.
     * Refactored existing workflows and enhanced application security.
     * Implemented reactive programming and conducted unit/quality testing.
 
