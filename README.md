@@ -63,4 +63,4 @@ Tools & Architecture:
 ### 📫 Connect with Me
 
 * LinkedIn: https://www.linkedin.com/in/alexandre-mendes-93b314206
-* Email: ricardomendesprofissional@gmail.com
+* Email: ale.mendes.rl@gmail.com
