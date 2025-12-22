@@ -7,7 +7,7 @@ I have been a software developer since 2021, building solutions primarily using 
 ### 🚀 About Me
 
 * My Mission: My goal is to ensure accessibility, efficiency, and security while providing the best possible user experience.
-* Community: I enjoy contributing to the community by helping developers who are just starting out[cite: 23].
+* Community: I enjoy contributing to the community by helping developers who are just starting out.
 * Education: I am currently pursuing a Technical degree in Computer Science at Senac RS (2025 - 2027). I also hold a certification as a Full Stack Developer and DevOps from Gama Academy.
 
 ### 🛠️ Tech Stack
