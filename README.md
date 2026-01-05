@@ -14,8 +14,7 @@ I have been a software developer since 2021, building solutions primarily using 
 
 Languages & Core:
 * JavaScript, TypeScript
-* Java (Object Oriented/Basic)
-* HTML/CSS & Accessibility Standards
+* Accessibility Standards
 
 Frameworks & Libraries:
 * Angular & RxJS
