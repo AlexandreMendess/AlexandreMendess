@@ -1,7 +1,5 @@
 # Hi there, I'm Alexandre Mendes 👋
 
-Senior Software Engineer based in Recife, Pernambuco, Brazil.
-
 I have been a software developer since 2021, building solutions primarily using JavaScript and Typescript. Currently, I work as a Senior Software Engineer at Accenture, contributing to web applications that impact millions of users.
 
 ### 🚀 About Me
