@@ -16,14 +16,10 @@ Languages & Core:
 
 Frameworks & Libraries:
 * Angular & RxJS
-* Vue.js
 * NX (Monorepo)
 
 Tools & Architecture:
 * Software Architecture & Design Patterns
-* BluePrism (RPA)
-* Apache & IIS
-* Data Analysis
 
 ### 💼 Professional Experience
 
