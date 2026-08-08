@@ -1,25 +1,27 @@
 # Hi there, I'm Alexandre Mendes 👋
 
-I have been a software developer since 2021, building solutions primarily using JavaScript and Typescript. Currently, I work as a Senior Software Engineer at Accenture, contributing to web applications that impact millions of users.
+Hello! I am a Senior Software Engineer specializing in Front-end development, building fast, scalable, and secure solutions using JavaScript and TypeScript.
 
 ### 🚀 About Me
 
-* My Mission: My goal is to ensure accessibility, efficiency, and security while providing the best possible user experience.
-* Community: I enjoy contributing to the community by helping developers who are just starting out.
-* Education: I am currently pursuing a Technical degree in Computer Science at Senac RS (2025 - 2027). I also hold a certification as a Full Stack Developer and DevOps from Gama Academy.
+Currently, I work as a Senior Software Engineer at Accenture. Throughout my career, I've had the opportunity to build and optimize web applications that impact the lives of millions of users across highly critical sectors.
 
-### 🛠️ Tech Stack
+My core expertise lies in Angular and Reactive Programming (RxJS). I have a strong track record of solving complex performance bottlenecks in legacy systems for major global and national clients, including Banco do Brasil, Banco BV, and Toyota Motor Corporation.
 
-Languages & Core:
-* JavaScript, TypeScript
-* Accessibility Standards
+Besides my deep knowledge of Angular, I am also highly adaptable and proficient in Vue.js and React.js. My background includes developing large-scale features for national platforms like Dataprev and Gov.br, as well as building robust document management SaaS solutions.
 
-Frameworks & Libraries:
-* Angular & RxJS
-* NX (Monorepo)
+In every project I engage with, my main goals are to ensure accessibility, efficiency, and security—always enhancing performance, optimizing architecture, and providing the best possible user experience.
 
-Tools & Architecture:
-* Software Architecture & Design Patterns
+In my free time, I truly enjoy contributing to the tech community by mentoring and helping developers who are just starting out.
+
+🛠️ Core Tech Stack:
+
+- Angular: 5 years.
+- React: 2 years.
+- Vue: 1 year.
+- Java : 2 years.
+- Javascript: 6 years.
+- Typescript: 5 years.
 
 ### 💼 Professional Experience
 
