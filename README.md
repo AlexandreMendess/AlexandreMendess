@@ -26,15 +26,39 @@ In my free time, I truly enjoy contributing to the tech community by mentoring a
 ### 💼 Professional Experience
 
 #### Accenture | Senior Software Engineer
-*Oct 2024 - Present*
 
-* Toyota Project: Acting as a technical lead on the administrative portal.
-    * Optimized system performance using RxJS.
-    * Fixed 100% of memory leaks caused by HTTP request data manipulation.
-    * Performed code reviews and solved architectural problems.
-* Banco BV Project: Worked on "Argos" and "Cockpit" applications.
-    * Refactored existing workflows and enhanced application security.
-    * Implemented reactive programming and conducted unit/quality testing.
+Accenture is a global company recognized as a leader in software consulting.  
+My role extends from architecture and design patterns to software development and testing.  
+I work on applications that impact millions of users, improving performance and security.
+
+Clients I have worked with:
+
+- Banco Votorantim:
+
+* During this project, I had the opportunity to work on two applications. I was responsible for creating new interfaces, refactoring existing workflows, fixing issues using reactive programming, conducting unit and quality testing, and enhancing application security.  
+
+  Project duration at Banco BV: October 2024 to January 2025.
+
+- Toyota Motor Corporation:
+
+  * Currently, I am working on Toyota’s administrative portal for cars, acting as a technical lead and implementing several improvements, such as:  
+
+- Optimizing system performance by adjusting the Angular application to work with RxJS.  
+- Fixing memory leaks caused by data manipulation through HTTP requests.
+- Solve problems in architecture.
+- Performing code reviews, fixing bugs, and sharing reactive programming knowledge with team members.
+- Architecture/Design/Documentation for Push Notification feature from client side in Front-end.
+
+  Project duration:  March 2025 to February 2026.
+
+- Banco do Brasil:
+
+* I am currently working in an internal team as a senior front-end engineer on two applications.
+- I'm responsible for solve problems about performance in some architectures like BFF, Micro-Services and responsible for makes unit tests and E2E tests.
+- I'm working directly with BFF, Micro-Services using Angular.
+- I'm working with legacy systems using Java in Springboot applications.
+
+  Project duration: March 2026 to date.
 
 #### Deloitte | System Analyst
 *Aug 2022 - Sep 2024*
